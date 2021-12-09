@@ -1,0 +1,83 @@
+Number of particles                                                                                                
+300
+Total number of steps                                                                                              
+10000000
+Interval for writing out data                                                                                      
+100000                                                                                                               
+Number of initial steps to be ignored                                                                              
+0                                                                                                           
+Filename for initial particle configurations                                                                       
+crys_start.txt
+File name for output particle coordinates                                                                          
+bd_xyz                                                                                                             
+Radius of the particle (nm)                                                                                        
+1435.0                                                                                                             
+Temperature (C)                                                                                                    
+20                                                                                                                 
+Particle area fraction in terms of core radius(phi)                                                                
+0.001                                                                                                              
+Time step for integration (ms)                                                                                     
+0.1                                                                                                                
+Initial starting time (ms)                                                                                         
+0                                                                                                                  
+Tag: 'n' for new coordinate file, 'o' for continuing file                                                          
+'n'                                                                                                                
+Fac1                                                                                                               
+5.9582E+07  4.0809E+04                                                                                             
+Fac2                                                                                                               
+40.5622  18.3254                                                                                                   
+Paralell Diffusion Factor                                                                                          
+0.4079                                                                                                             
+Gravitational Force (G*a/kT)                                                                                       
+43.5488                                                                                                            
+Enter cutoff for electric repulsion force calculation (radii)                                                      
+5.0                                                                                                                
+enter cutoff for dipole dipole calculation                                                                         
+5.0                                                                                                                
+kappa * a                                                                                                          
+143.5                                                                                                         
+bpp/kT/a                                                                                                           
+2.2975                                                                                                             
+bpw/kT                                                                                                             
+6628.1036                                                                                                          
+lambda                                                                                                             
+19.7283
+Clausius-Mossotti (fcm)                                                                                            
+-0.4667                                                                                                     
+Gap width (dg/a)  (dg is 91um)                                                                                    
+63.415                                                                                                             
+Levitation height (h/a)                                                                                            
+0.0663                                                                                                             
+Minimum coordination radius for conn6 (nm)                                                                         
+3780                                                                                                               
+Experimental Box Size (x/a, y/a)                                                                                   
+63.415 63.415 66 66 53.95556 41.10899                                                                              
+Experimental Noise (nm)                                                                                            
+0                                                                                                                  
+Polydisperse or monodisperse system (mono, poly)                                                                   
+mono                                                                                                               
+Particle size distribution file                                                                                    
+raddist.txt                                                                                                        
+Dummy variable                                                                                                     
+1
+RG histogram filename, width of Rg bins(nm), minimum of Rg(nm)                                                     
+bd_rghist.txt 50 2000                                                                                              
+filename of the psi histogram and width of the psi bins                                                            
+bd_psihist.txt 0.05                                                                                                
+con6 histogram filename and width of the bin                                                                       
+bd_conhist.txt 0.2                                                                                                 
+cyclenum                                                                                                           
+10                                                                                                                  
+rgdsfile                                                                                                           
+2dtabledssnp300.txt                                                                                            
+rgdsmin, delrgdsmin, rgdssbin                                                                                      
+26500 -250 30                                                                                                      
+distmin, deldist, bin                                                                                              
+0 1435 50                                                                                                          
+dssmin  dssmax                                                                                                     
+0.10  0.4                                                                                                          
+dpf                                                                                                                
+1                                                                                                                  
+ecorrect flag                                                                                                      
+1                                                                                                                                                                                                                             
+                                                                                                                  
