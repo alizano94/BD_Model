@@ -7,7 +7,7 @@ Interval for writing out data
 Number of initial steps to be ignored                                                                              
 0                                                                                                           
 Filename for initial particle configurations                                                                       
-crys_start.txt
+def_start.txt
 File name for output particle coordinates                                                                          
 bd_xyz                                                                                                             
 Radius of the particle (nm)                                                                                        
