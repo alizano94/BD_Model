@@ -1,13 +1,13 @@
 Number of particles                                                                                                
 300
 Total number of steps                                                                                              
-10000000
+100000
 Interval for writing out data                                                                                      
-100000                                                                                                               
+100000                                                                                                              
 Number of initial steps to be ignored                                                                              
 0                                                                                                           
 Filename for initial particle configurations                                                                       
-def_start.txt
+temp.txt
 File name for output particle coordinates                                                                          
 bd_xyz                                                                                                             
 Radius of the particle (nm)                                                                                        
@@ -67,7 +67,7 @@ bd_psihist.txt 0.05
 con6 histogram filename and width of the bin                                                                       
 bd_conhist.txt 0.2                                                                                                 
 cyclenum                                                                                                           
-10                                                                                                                  
+1                                                                                                               
 rgdsfile                                                                                                           
 2dtabledssnp300.txt                                                                                            
 rgdsmin, delrgdsmin, rgdssbin                                                                                      
